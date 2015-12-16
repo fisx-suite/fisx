@@ -39,17 +39,12 @@ fisx release prod # release codebase used in the production environment
 ## Features
 
 * [Scaffold utilities](https://github.com/wuhy/fisx-command-init)
-
 * Component package manage
 
     * [install](https://github.com/wuhy/fisx-command-install)
-    
     * [uninstall](https://github.com/wuhy/fisx-command-uninstall)
-    
     * [update](https://github.com/wuhy/fisx-command-update)
-    
     * [list](https://github.com/wuhy/fisx-command-list)
-    
     * [search](https://github.com/wuhy/fisx-command-search)
 
 * [Development server](https://github.com/wuhy/fisx-command-server)
