@@ -47,6 +47,7 @@ fisx release prod # release codebase used in the production environment
     * [list](https://github.com/wuhy/fisx-command-list)
     * [search](https://github.com/wuhy/fisx-command-search)
 
+* [Package](https://github.com/wuhy/fisx-packager-static)
 * [Development server](https://github.com/wuhy/fisx-command-server)
 
 ## Reference
