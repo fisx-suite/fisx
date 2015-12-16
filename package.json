@@ -1,13 +1,20 @@
 {
   "name": "fisx",
   "version": "0.1.0",
-  "description": "A better front-end solution for development, test and release based on fis3",
+  "description": "A better front-end solution for development, debug and release based on fis3",
   "main": "index.js",
   "bin": {
     "fisx": "bin/fisx.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wuhy/fisx.git"
+  },
+  "bugs": {
+    "url": "http://github.com/wuhy/fisx/issues"
   },
   "keywords": [
     "fis",
@@ -17,9 +24,9 @@
   "author": "sparklewhy@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "fis3": "^3.3.3",
+    "fis3": "^3.3.6",
     "fis3-optimizer-css-compressor": "^0.1.0",
-    "fis3-parser-less": "^0.1.0",
+    "fis3-parser-less2": "^0.1.1",
     "fis3-parser-stylus": "^0.1.0",
     "fisx-helper": "^0.1.0",
     "fisx-hook-amd": "^0.1.0",
