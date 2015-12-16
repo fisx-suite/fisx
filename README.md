@@ -49,7 +49,7 @@ fisx release prod # release codebase used in the production environment
 
 * [Development server](https://github.com/wuhy/fisx-command-server)
 
-## Refer
+## Reference
 
 * [EcomFE spec](https://github.com/ecomfe/spec)
 
