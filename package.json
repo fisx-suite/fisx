@@ -41,6 +41,7 @@
     "fisx-hook-relative": "^0.1.0",
     "fisx-packager-static": "^0.1.0",
     "liftoff": "^2.3.0",
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.0",
+    "node-emoji": "^1.4.1"
   }
 }
