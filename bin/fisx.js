@@ -33,7 +33,7 @@ cli.launch({
         fis = require(env.modulePath);
     }
 
-    process.title = this.name +' ' + process.argv.slice(2).join(' ') + ' [ ' + env.cwd + ' ]';
+    process.title = this.name + ' ' + process.argv.slice(2).join(' ') + ' [ ' + env.cwd + ' ]';
 
     // windows 7 下 模块 name 名称可能不存在，这里强制赋值
     env.modulePackage || (env.modulePackage = {});
@@ -43,6 +43,7 @@ cli.launch({
     // 然后才是全局环境下面安装的 fis3 目录里面的 node_modules
     // 最后是安装的 fis3 依赖的 node_modules
     fis.require.paths.unshift(path.join(env.cwd, 'node_modules'));
+
     fis.require.paths.push(path.join(path.dirname(__dirname), 'node_modules'));
     fis.require.paths.push(path.join(
         path.dirname(__dirname),
