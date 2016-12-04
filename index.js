@@ -5,15 +5,13 @@
 
 var fis = module.exports = require('fis3');
 fis.require.prefixes.unshift('fisx');
+
 fis.cli.name = 'fisx';
 fis.cli.info = require('./package.json');
 fis.cli.version = require('./lib/version');
+fis.cli.run = require('./lib/run').bind(fis.cli, fis);
 
-var extension = require('./lib/extension');
-extension.init(fis);
 
-var config = require('./lib/config');
-config.init(fis);
 
 
 

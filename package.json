@@ -24,6 +24,7 @@
   "author": "sparklewhy@gmail.com",
   "license": "ISC",
   "dependencies": {
+    "commander": "^2.9.0",
     "fis3": "^3.4.25",
     "fis3-optimizer-css-compressor": "^0.1.0",
     "fis3-parser-less2": "^0.1.1",
