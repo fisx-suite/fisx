@@ -22,6 +22,9 @@
     "amd"
   ],
   "author": "sparklewhy@gmail.com",
+  "engines": {
+    "node": ">=4"
+  },
   "license": "ISC",
   "dependencies": {
     "commander": "^2.9.0",
