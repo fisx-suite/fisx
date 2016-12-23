@@ -1,6 +1,8 @@
 fisx
 ========
 
+[![Dependency Status](https://david-dm.org/wuhy/fisx.svg)](https://david-dm.org/wuhy/fisx) [![devDependency Status](https://david-dm.org/wuhy/fisx/dev-status.svg)](https://david-dm.org/wuhy/fisx#info=devDependencies) [![NPM Version](https://img.shields.io/npm/v/fisx.svg?style=flat)](https://npmjs.org/package/fisx)
+
 > A better front-end solution for development, debug and release based on fis3 using EcomFE spec and AMD spec.
 
 
