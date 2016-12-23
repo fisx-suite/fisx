@@ -1,6 +1,6 @@
 {
   "name": "fisx",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A better front-end solution for development, debug and release based on fis3",
   "main": "index.js",
   "bin": {
