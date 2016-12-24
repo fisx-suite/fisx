@@ -1,6 +1,6 @@
 {
   "name": "fisx",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A better front-end solution for development, debug and release based on fis3",
   "main": "index.js",
   "bin": {
@@ -38,7 +38,7 @@
     "fisx-command-list": "^0.2.0",
     "fisx-command-search": "^0.2.0",
     "fisx-command-cache": "^0.2.0",
-    "fisx-command-server": "^0.2.0",
+    "fisx-command-server": "^0.2.1",
     "fisx-command-uninstall": "^0.2.0",
     "fisx-command-update": "^0.2.0",
     "fisx-helper": "^0.2.0",
