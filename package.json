@@ -27,8 +27,8 @@
   },
   "license": "ISC",
   "dependencies": {
-    "commander": "~2.9.0",
-    "fis3": "3.4.32",
+    "commander": "~2.11.0",
+    "fis3": "3.4.34",
     "fis3-optimizer-css-compressor": "~0.2.1",
     "fis3-parser-less2": "~0.1.3",
     "fis3-parser-stylus": "~0.1.3",
@@ -38,15 +38,15 @@
     "fisx-command-install": "~0.2.0",
     "fisx-command-list": "~0.2.0",
     "fisx-command-search": "~0.2.0",
-    "fisx-command-server": "~0.2.6",
-    "fisx-command-uninstall": "~0.2.0",
+    "fisx-command-server": "~0.2.7",
+    "fisx-command-uninstall": "~0.2.1",
     "fisx-command-update": "~0.2.0",
     "fisx-helper": "~0.2.1",
     "fisx-hook-amd": "~0.2.3",
     "fisx-hook-relative": "~0.2.0",
-    "fisx-packager-static": "~0.2.4",
+    "fisx-packager-static": "~0.2.5",
     "liftoff": "~2.3.0",
     "minimist": "~1.2.0",
-    "node-emoji": "~1.5.1"
+    "node-emoji": "~1.8.1"
   }
 }
